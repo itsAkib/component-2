@@ -1,0 +1,18 @@
+/* *{
+    border-bottom: 10px;
+}
+
+.Footer{
+    margin-top: 10px;
+}
+.Footer {
+    background-color: var(--clr-secondary);
+    color: var(--clr-secondary--dark);
+    display: grid;
+    font-size: 1.8rem;
+    padding: 1.5rem 1rem;
+    place-items: center;
+}
+.footer.bg-light.text-center.text-lg-left{
+    padding-top: 100%;
+} */
