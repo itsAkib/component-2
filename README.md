@@ -1,4 +1,4 @@
-# Responsive Navigation Menu in React JS
+# Responsive Navigation Menu with Mini-Toast in React JS
 
 This repository contains code for responsive navbar in react with react-router functoinalities.
 
